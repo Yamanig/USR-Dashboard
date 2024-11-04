@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 import { useLocation } from "react-router-dom"
-import { LayoutDashboard, Map, GraduationCap, Briefcase, Heart } from "lucide-react"
+import { LayoutDashboard,  GraduationCap, Briefcase } from "lucide-react"
 import { cn } from "@/lib/utils"
 import { motion } from "framer-motion"
 
